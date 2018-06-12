@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+Allow: /about
+Allow: /features
+Allow: /faq
+Allow: /contact
 Sitemap: https://www.missionmule.com/sitemap.xml
